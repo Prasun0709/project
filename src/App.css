@@ -1,0 +1,12 @@
+/* src/styles.css */
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.MuiListItem-button:hover {
+  background-color: rgba(0, 0, 0, 0.08);
+}
+
+.MuiCollapse-container {
+  transition: height 300ms ease-in-out;
+}
